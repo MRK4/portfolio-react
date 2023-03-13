@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from "react";
-import Image from "next/image";
-import { TbArrowUpRight } from "react-icons/tb";
-import projetsData from "../data/projets.json";
-import Fade from 'react-reveal/Fade';
+import React, { useState, useEffect } from "react"
+import Image from "next/image"
+import { TbArrowUpRight } from "react-icons/tb"
+import projetsData from "../data/projets.json"
+import Fade from 'react-reveal/Fade'
 
 function ProjectsContainer() {
   const [projets, setProjets] = useState([]);
@@ -12,11 +12,11 @@ function ProjectsContainer() {
     setProjets(projetsData.projets);
   }, []);
   return (
-    <section className="py-8 md:py-20" id="projects">
+    <section className="py-8 md:py-14" id="projects">
       <h2>
         <span className="font-light">My</span> Projects.
       </h2>
-      <p className="max-w-4xl my-4">
+      <p className="max-w-3xl my-4">
       Discover in this section a selection of my most recent projects. Each project represents an opportunity for me to explore new technologies and to practice my front-end web development skills.
       </p>
 
@@ -31,7 +31,7 @@ function ProjectsContainer() {
                 href={projet.link}
                 target="_blank"
                 >
-                  <h3>{projet.nom}</h3>
+                  <h3 className="transition group-hover:translate-x-2">{projet.nom}</h3>
                   <TbArrowUpRight className="hidden w-auto h-6 transition group-hover:block" />
                 </a>
                 <Image

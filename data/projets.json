@@ -26,7 +26,7 @@
       {
         "id": 3,
         "nom": "Moana Histoires d'Océan",
-        "description": "Création du site vitrine de l'entreprise. Thème WordPress développé de A à Z avec personnalisation de contenu en back-office.",
+        "description": "Creation of the company's showcase website. WordPress theme developed from scratch with content customization in the back office.",
         "image": "moanahistoiresdocean.jpg",
         "link": "https://www.moanahistoiresdocean.com",
         "stack": [
@@ -39,7 +39,7 @@
       {
         "id": 4,
         "nom": "Fireservice",
-        "description": "Création du site vitrine de l'entreprise. Thème WordPress développé de A à Z avec personnalisation de contenu en back-office.",
+        "description": "Creation of the company's showcase website. WordPress theme developed from scratch with content customization in the back office.",
         "image": "fireservice.jpg",
         "link": "https://www.fireservice.fr",
         "stack": [

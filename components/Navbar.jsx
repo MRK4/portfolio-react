@@ -23,7 +23,7 @@ const Navbar = () => {
   };
 
   return (
-    <header className='shadow-lg shadow-[#0F0F0F]/50 bg-[#0F0F0F]/50 z-50 fixed top-0 w-full p-4 lg:px-12 antialiased backdrop-blur'>
+    <header className='shadow-lg shadow-[#0F0F0F]/50 bg-[#0F0F0F]/50 z-50 fixed top-0 w-full p-4 lg:px-12 antialiased backdrop-blur-sm'>
         <nav className='flex items-center justify-between text-lg md:text-xl'>
           <ul className='flex items-center font-bold gap-x-4'>
             <li><a className='transition hover:text-violet-400 hover:underline underline-offset-8' href="#bio">Bio</a></li>

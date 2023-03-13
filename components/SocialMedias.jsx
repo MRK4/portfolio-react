@@ -3,7 +3,7 @@ import { AiOutlineTwitter, AiFillLinkedin, AiOutlineGithub, AiOutlineCodepen } f
 
 function SocialMedias() {
   return (
-    <section className='flex items-center justify-center py-20'>
+    <section className='flex items-center justify-center py-14'>
         <ol className='flex items-center justify-around w-full max-w-sm text-3xl'>
             <li className='hover:text-violet-400'>
                 <a target="_blank" href="https://www.linkedin.com/in/clementpdr/"><AiFillLinkedin /></a>
