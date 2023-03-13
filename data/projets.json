@@ -9,7 +9,8 @@
         "stack": [
           "React",
           "TailwindCSS",
-          "Axios"
+          "Axios",
+          "JWT"
         ]
       },
       {
