@@ -1,0 +1,53 @@
+{
+    "projets": [
+      {
+        "id": 1,
+        "nom": "Airbnb Clone",
+        "description": "Currently working on a clone of Airbnb app developed with React to improve my skills with this framework.",
+        "image": "airbnb.jpg",
+        "link": "",
+        "stack": [
+          "React",
+          "TailwindCSS",
+          "Axios"
+        ]
+      },
+      {
+        "id": 2,
+        "nom": "UberEats Clone",
+        "description": "A clone of UberEats app developed with React to improve my skills with this framework.",
+        "image": "ubereats.jpg",
+        "link": "https://youeats.netlify.app",
+        "stack": [
+          "React",
+          "TailwindCSS"
+        ]
+      },
+      {
+        "id": 3,
+        "nom": "Moana Histoires d'Océan",
+        "description": "Création du site vitrine de l'entreprise. Thème WordPress développé de A à Z avec personnalisation de contenu en back-office.",
+        "image": "moanahistoiresdocean.jpg",
+        "link": "https://www.moanahistoiresdocean.com",
+        "stack": [
+          "Php",
+          "WordPress",
+          "TailwindCSS",
+          "ACF"
+        ]
+      },
+      {
+        "id": 4,
+        "nom": "Fireservice",
+        "description": "Création du site vitrine de l'entreprise. Thème WordPress développé de A à Z avec personnalisation de contenu en back-office.",
+        "image": "fireservice.jpg",
+        "link": "https://www.fireservice.fr",
+        "stack": [
+          "Php",
+          "WordPress",
+          "TailwindCSS",
+          "ACF"
+        ]
+      }
+    ]
+  }
