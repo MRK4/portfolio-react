@@ -20,7 +20,7 @@ function AboutMe() {
         I like to throw myself into projects often in order to always improve myself and stay on trend.
         </p>
         <p className="max-w-3xl my-4">
-        Other than computers, I also enjoy <strong>drawing</strong> and I'm a big fan of <strong>urban music</strong>!
+        Other than computers, I also enjoy <strong>drawing</strong> and I&apos;m a big fan of <strong>urban music</strong>!
         </p>
       </Fade>
     </section>
