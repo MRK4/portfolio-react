@@ -9,7 +9,7 @@ function HeroBanner() {
       </h1>
       <p className='max-w-3xl my-4'>I am passionate about creating attractive and intuitive user interfaces that provide an exceptional user experience. Always looking for new challenges, I work hard to produce quality products that perfectly meet the needs of users and customers.</p>
       <p className='max-w-3xl my-4'>I am currently listening to professional opportunities!</p>
-      <a className='inline-flex items-center underline transition w-fit gap-x-2 underline-offset-8 hover:text-violet-400' href="./Clement_Poudree_Resume.pdf" download>Download resume <AiOutlineDownload /></a>
+      {/* <a className='inline-flex items-center underline transition w-fit gap-x-2 underline-offset-8 hover:text-violet-400' href="./Clement_Poudree_Resume.pdf" download>Download resume <AiOutlineDownload /></a> */}
     </section>
   )
 }
