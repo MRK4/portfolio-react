@@ -3,11 +3,12 @@
       {
         "id": 1,
         "nom": "Airbnb Clone",
-        "description": "Currently working on a clone of Airbnb app developed with React to improve my skills with this framework.",
+        "description": "Currently working on a full-stack complete clone of Airbnb app developed with React to improve my skills with this framework.",
         "image": "airbnb.jpg",
         "link": "",
         "stack": [
           "React",
+          "Vite",
           "TailwindCSS",
           "Axios",
           "JWT"
