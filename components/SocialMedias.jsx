@@ -11,9 +11,9 @@ function SocialMedias() {
             <li className='hover:text-violet-400'>
                 <a target="_blank" href="https://github.com/MRK4"><AiOutlineGithub /></a>
             </li>
-            {/* <li className='hover:text-violet-400'>
-                <a target="_blank" href=""><AiOutlineTwitter /></a>
-            </li> */}
+            <li className='hover:text-violet-400'>
+                <a target="_blank" href="https://twitter.com/clementpdr"><AiOutlineTwitter /></a>
+            </li>
             <li className='hover:text-violet-400'>
                 <a target="_blank" href="https://codepen.io/clement_pdr"><AiOutlineCodepen /></a>
             </li>
