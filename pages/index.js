@@ -5,6 +5,7 @@ import Navbar from '@/components/Navbar'
 import ProjectsContainer from '@/components/ProjectsContainer'
 import SocialMedias from '@/components/SocialMedias'
 import Head from 'next/head'
+import { Fade } from 'react-reveal'
 
 export default function Home() {
   return (
@@ -17,9 +18,11 @@ export default function Home() {
       </Head>
       <Navbar/>
       <main className='px-4 pt-24 pb-12 antialiased lg:px-12'>
-        <HeroBanner/>
-        <AboutMe />
-        <ProjectsContainer />
+        <Fade cascade>
+          <HeroBanner/>
+          <AboutMe />
+          <ProjectsContainer />
+        </Fade>
         <section className='text-center'>
           <i>More stuff to come soon!</i>
         </section>
