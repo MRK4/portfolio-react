@@ -3,19 +3,31 @@
       {
         "id": 1,
         "nom": "Airbnb Clone",
-        "description": "Currently working on a full-stack complete clone of Airbnb app developed with React to improve my skills with this framework.",
+        "description": "I made this Airbnb clone to gain even more skills with React. Only the navigation bar doesn't work yet, I'm working on it!",
         "image": "airbnb.jpg",
-        "link": "",
+        "link": "https://clement-airbnb-clone.vercel.app",
         "stack": [
           "React",
           "Vite",
           "TailwindCSS",
           "Axios",
-          "JWT"
+          "JWT",
+          "AWS"
         ]
       },
       {
         "id": 2,
+        "nom": "Real Estate Website",
+        "description": "A simple and fully functional site with a search function to find the apartment of your dreams.",
+        "image": "realestate.jpg",
+        "link": "https://webtale-realestate.netlify.app",
+        "stack": [
+          "React",
+          "TailwindCSS"
+        ]
+      },
+      {
+        "id": 3,
         "nom": "UberEats Clone",
         "description": "A clone of UberEats app developed with React to improve my skills with this framework.",
         "image": "ubereats.jpg",
@@ -26,12 +38,13 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "nom": "Moana Histoires d'Océan",
         "description": "Creation of the company's showcase website. WordPress theme developed from scratch with content customization in the back office.",
         "image": "moanahistoiresdocean.jpg",
         "link": "https://www.moanahistoiresdocean.com",
         "stack": [
+          "Real Client",
           "Php",
           "WordPress",
           "TailwindCSS",
@@ -39,12 +52,13 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "nom": "Fireservice",
         "description": "Creation of the company's showcase website. WordPress theme developed from scratch with content customization in the back office.",
         "image": "fireservice.jpg",
         "link": "https://www.fireservice.fr",
         "stack": [
+          "Real Client",
           "Php",
           "WordPress",
           "TailwindCSS",
