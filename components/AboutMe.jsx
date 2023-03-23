@@ -17,7 +17,7 @@ function AboutMe() {
         At the moment, I work a lot with <strong>React</strong> and <strong>TailwindCSS</strong>.
         </p>
         <p className="max-w-3xl my-4">
-        I like to throw myself into projects often in order to always improve myself and stay on trend.
+        I like to throw myself into projects often in order to always <strong>improve myself</strong> and <strong>stay on trend</strong>.
         </p>
         <p className="max-w-3xl my-4">
         Other than computers, I also enjoy <strong>drawing</strong> and I&apos;m a big fan of <strong>urban music</strong>!
