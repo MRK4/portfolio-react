@@ -64,6 +64,17 @@
           "TailwindCSS",
           "ACF"
         ]
+      },
+      {
+        "id": 6,
+        "nom": "Linktree Clone",
+        "description": "A very simple app that I had fun recreating",
+        "image": "linktree-clone.jpg",
+        "link": "https://clement-linktree.vercel.app",
+        "stack": [
+          "React",
+          "TailwindCSS"
+        ]
       }
     ]
   }
