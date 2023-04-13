@@ -24,7 +24,7 @@ export default function Home() {
           <ProjectsContainer />
         </Fade>
         <section className='text-center'>
-          <i>More stuff to come soon!</i>
+          <i>More stuff coming soon!</i>
         </section>
         <SocialMedias />
         <Footer />

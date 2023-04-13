@@ -34,14 +34,17 @@ function ProjectsContainer() {
                   <h3 className="transition group-hover:translate-x-2">{projet.nom}</h3>
                   <TbArrowUpRight className="hidden w-auto h-6 transition group-hover:block" />
                 </a>
-                <Image
-                src={`/assets/projects/`+projet.image}
-                alt={projet.nom}
-                width={1920}
-                height={1080}
-                blurDataURL="URL"
-                placeholder="blur"
-                />
+                <a href={projet.link} target="_blank">
+                  <Image
+                  className="mt-4"
+                  src={`/assets/projects/`+projet.image}
+                  alt={projet.nom}
+                  width={1920}
+                  height={1080}
+                  blurDataURL="URL"
+                  placeholder="blur"
+                  />
+                </a>
                 <p className="transition group-hover:text-white">
                   {projet.description}
                 </p>
