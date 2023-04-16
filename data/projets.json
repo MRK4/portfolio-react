@@ -7,7 +7,10 @@
         "image": "airbnb.jpg",
         "link": "https://clement-airbnb-clone.vercel.app",
         "stack": [
+          "MongoDB",
+          "Express",
           "React",
+          "Node.js",
           "Vite",
           "TailwindCSS",
           "Axios",
