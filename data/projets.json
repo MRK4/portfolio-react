@@ -85,7 +85,7 @@
         "nom": "Pomodoro App",
         "description": "A simple but useful light Pomodoro App",
         "image": "pomodoro.jpg",
-        "link": "https://pomodoro-react-iota.vercel.app",
+        "link": "https://pomodoro-clement.vercel.app",
         "stack": [
           "React",
           "TailwindCSS",
